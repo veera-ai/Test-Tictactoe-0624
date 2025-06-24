@@ -1,1 +1,3 @@
-# Test-Tictactoe-0624
+# Project Repository
+
+This is the initial README file for the project.
